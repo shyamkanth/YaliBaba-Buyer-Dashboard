@@ -1,4 +1,4 @@
-/* app.component.css */
+
 .buyer-dashboard {
     display: flex;
     flex-direction: column;
@@ -107,7 +107,7 @@
   
   .product-item img {
     max-width: 100%;
-    max-height: 200px; /* Set the desired maximum height */
+    max-height: 200px; 
     object-fit: contain;
     margin-bottom: 10px;
     border-radius: 5%;
@@ -184,10 +184,10 @@
   }
   
   .checkout-button {
-    background-color: #4caf50; /* Update the color for the checkout button */
+    background-color: #4caf50; 
   }
   
-/* app.component.css */
+
 .cart-item {
     display: flex;
     align-items: center;

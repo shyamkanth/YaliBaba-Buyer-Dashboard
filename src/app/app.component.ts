@@ -46,8 +46,7 @@ export class AppComponent {
   }
 
   checkout() {
-    // Add the desired functionality for the checkout process
-    // For example, you can navigate to a checkout page or display a confirmation message
+
   }
   
 }
